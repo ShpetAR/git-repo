@@ -1,7 +1,0 @@
-C:\Users\shpetar\Desktop\GeekBrains\git-repo\CSharpProj\Program\bin\Debug\Program.exe.config
-C:\Users\shpetar\Desktop\GeekBrains\git-repo\CSharpProj\Program\bin\Debug\Program.exe
-C:\Users\shpetar\Desktop\GeekBrains\git-repo\CSharpProj\Program\bin\Debug\Program.pdb
-C:\Users\shpetar\Desktop\GeekBrains\git-repo\CSharpProj\Program\obj\Debug\Program.csprojAssemblyReference.cache
-C:\Users\shpetar\Desktop\GeekBrains\git-repo\CSharpProj\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
-C:\Users\shpetar\Desktop\GeekBrains\git-repo\CSharpProj\Program\obj\Debug\Program.exe
-C:\Users\shpetar\Desktop\GeekBrains\git-repo\CSharpProj\Program\obj\Debug\Program.pdb
